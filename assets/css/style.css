@@ -1,0 +1,32 @@
+html {
+  background-color: #ffff9a;
+  font-size: 16px;
+}
+
+.head {
+  height: 10rem;
+  width: auto;
+  font-family: "Londrina Solid";
+}
+
+.title {
+  display: inline-block;
+}
+
+nav {
+  display: inline-block;
+}
+
+.sidebar {
+  display: inline-block;
+  width: 7rem;
+  height: auto;
+  border: 2px solid #000000;
+}
+
+.welcome {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border: 2px solid #000000;
+}
